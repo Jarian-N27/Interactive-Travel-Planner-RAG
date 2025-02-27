@@ -53,6 +53,6 @@ Some of the future works that have been discussed during development were:
 - TripAdvisor API data integration in order to include more robust information about locations.
 
 ## 📜 Acknowledgments
-- This project was co-developed with Javier A. Dastas during our time in the Data Science and Machine Learning bootcamp with IronHack.
-- The full version is available [here](https://github.com/javierdastas/project-dsml-interactive-travel-planner)
+- This project was co-developed with [Javier A. Dastas](https://github.com/javierdastas) during our time in the Data Science and Machine Learning bootcamp with IronHack.
+- The full version to the project with all of its files is available [here](https://github.com/javierdastas/project-dsml-interactive-travel-planner)
 - The link to the live site can be found [here](https://discoverpuertorico.live/#)
